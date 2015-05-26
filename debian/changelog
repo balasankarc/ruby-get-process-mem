@@ -1,5 +1,5 @@
-ruby-get-process-mem (0.2.0-1) UNRELEASED; urgency=medium
+ruby-get-process-mem (0.2.0-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)
+  * Initial release (Closes: #786914)
 
- -- Balasankar C <balasankarc@autistici.org>  Tue, 26 May 2015 23:00:14 +0530
+ -- Balasankar C <balasankarc@autistici.org>  Tue, 26 May 2015 22:05:22 +0530
