@@ -18,8 +18,7 @@ XB-Ruby-Versions: ${ruby:Versions}
 Depends: ruby | ruby-interpreter,
          ${misc:Depends},
          ${shlibs:Depends}
-Description: Get memory usage of a process in Ruby
- Use GetProcessMem to find out the amount of RAM used by any process. Supports 
+Description: get memory usage of a process in Ruby
+ Use GetProcessMem to find out the amount of RAM used by any process. Supports
  retrieval of memory usage in units of bytes, kilobytes, megabytes and 
  gigabytes.
-

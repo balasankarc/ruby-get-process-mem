@@ -1,5 +1,8 @@
 Description: Remove bundler usage
  Remove the usage of bundler for finding out gems
+Author: Balasankar C <balasankarc@autistici.org>
+Forwarded: not-needed
+Last-Update: 2015-06-14
 ---
 This patch header follows DEP-3: http://dep.debian.net/deps/dep3/
 --- a/test/test_helper.rb
