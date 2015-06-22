@@ -1,3 +1,9 @@
+ruby-get-process-mem (0.2.0-2) unstable; urgency=medium
+
+  * Add test-unit as build dep, to successfully build with Ruby 2.2
+
+ -- Balasankar C <balasankarc@autistici.org>  Mon, 22 Jun 2015 18:24:57 +0530
+
 ruby-get-process-mem (0.2.0-1) unstable; urgency=medium
 
   * Initial release (Closes: #786914)
